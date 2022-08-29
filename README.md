@@ -1,2 +1,2 @@
 # bikecraft
-Projeto de landing page feito para estudar html e css, desenvolvido durante o curso da origamid.
+Projeto de landing page de uma loja de bicicletas feito para estudar html e css.
